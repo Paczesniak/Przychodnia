@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Przychodnia</title>
-    <link rel="stylesheet" href="{{ asset('title.css') }}">
+    <link rel="stylesheet" href="{{ secure_asset('title.css') }}">
 </head>
 <body>
     <a href="{{ route('main') }}" class="header-link"><h1 class="gradient-text">Przychodnia</h1></a>
