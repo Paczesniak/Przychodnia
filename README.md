@@ -1,10 +1,23 @@
-Dane do logowania
+# Przychodnia – Aplikacja Webowa (Laravel)
 
--Administrator: admin@example.com, password
+Aplikacja webowa stworzona w Laravelu, umożliwiająca zarządzanie przychodnią. System wspiera logowanie trzech typów użytkowników: administratora, lekarza oraz pacjenta. Umożliwia m.in. umawianie wizyt, przegląd grafików lekarzy oraz zarządzanie kontami użytkowników.
 
--Lekarz: piotr.zielinski@example.com, password
+## 🔗 Demo aplikacji
 
--Pacjent: mateusz.wajda@email.com, password1
+Zobacz aplikację na żywo:  
+👉 [https://przychodnia-production.up.railway.app](https://przychodnia-production.up.railway.app)
 
+## 🔐 Dane do logowania
 
-Użyte grafiki mają charakter demonstracyjny i nie są przeznaczone do użytku komercyjnego.
+- **Administrator**  
+  `admin@example.com` / `password`
+
+- **Lekarz**  
+  `piotr.zielinski@example.com` / `password`
+
+- **Pacjent**  
+  `mateusz.wajda@email.com` / `password1`
+
+  ## Informacje
+
+  Użyte grafiki mają charakter demonstracyjny i nie są przeznaczone do użytku komercyjnego.
