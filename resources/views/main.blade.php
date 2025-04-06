@@ -159,13 +159,13 @@
                                 <div class="doctor-img-container">
                                     <img src="{{ asset('images/doctor1.jpg') }}" alt="Doctor" class="doctor-img">
                                 </div>
-                                <h3>Johny Deep</h3>
+                                <h3>Johny Deeppop</h3>
                                 <p>Psychologist</p>
                                 <div class="social-icons">
-                                    <a href="https://www.instagram.com/johnnydepp/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/johnnydepp/"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.instagram.com/johnnydepp/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.instagram.com/johnnydepp/"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -179,10 +179,10 @@
                                 <h3>Young Leosia</h3>
                                 <p>Plastic Surgeon</p>
                                 <div class="social-icons">
-                                    <a href="https://www.instagram.com/youngleosia/?hl=pl"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/youngleosia/?hl=pl"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.instagram.com/youngleosia/?hl=pl"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.instagram.com/youngleosia/?hl=pl"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -193,13 +193,13 @@
                                 <div class="doctor-img-container">
                                     <img src="{{ asset('images/doctor3.jpg') }}" alt="Doctor" class="doctor-img">
                                 </div>
-                                <h3>Erling Haaland</h3>
+                                <h3>Erling Nowak</h3>
                                 <p>Orthopaedist</p>
                                 <div class="social-icons">
-                                    <a href="https://www.instagram.com/erling.haaland/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/erling.haaland/"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.instagram.com/erling.haaland/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.instagram.com/erling.haaland/"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -210,13 +210,13 @@
                                 <div class="doctor-img-container">
                                     <img src="{{ asset('images/doctor1.jpg') }}" alt="Doctor" class="doctor-img">
                                 </div>
-                                <h3>Krzysztof Krawczyk </h3>
+                                <h3>Krzysztof Pomocny</h3>
                                 <p>Laryngologist</p>
                                 <div class="social-icons">
-                                    <a href="https://www.instagram.com/krzysztofkrawczyk_official/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/krzysztofkrawczyk_official/"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.instagram.com/krzysztofkrawczyk_official/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.instagram.com/krzysztofkrawczyk_official/"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -227,13 +227,13 @@
                                 <div class="doctor-img-container">
                                     <img src="{{ asset('images/doctor2.jpg') }}" alt="Doctor" class="doctor-img">
                                 </div>
-                                <h3>Lana Rhoades</h3>
+                                <h3>Lana Pepsori</h3>
                                 <p>Sexologist</p>
                                 <div class="social-icons">
-                                    <a href="https://www.instagram.com/lanarhoades/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/lanarhoades/"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.instagram.com/lanarhoades/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.instagram.com/lanarhoades/"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -244,7 +244,7 @@
                                 <div class="doctor-img-container">
                                     <img src="{{ asset('images/doctor3.jpg') }}" alt="Doctor" class="doctor-img">
                                 </div>
-                                <h3>Joseph Goebbels</h3>
+                                <h3>Joseph Goebb</h3>
                                 <p>Fast Death Specialist</p>
                                 <div class="social-icons">
                                     <a href="https://pl.wikipedia.org/wiki/Joseph_Goebbels"><i class="fab fa-facebook-f"></i></a>
@@ -434,7 +434,7 @@
                         <ul class="list-unstyled">
                             <li><a href="#"><i class="fab fa-facebook-f"></i> Facebook</a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i> Twitter</a></li>
-                            <li><a href="https://www.instagram.com/kuraszeg/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                            <li><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
                             <li><a href="#"><i class="fab fa-linkedin-in"></i> LinkedIn</a></li>
                             <li><a href="#"><i class="fab fa-pinterest"></i> Pinterest</a></li>
                         </ul>
